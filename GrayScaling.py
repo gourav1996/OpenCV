@@ -1,5 +1,5 @@
 import cv2
-image = cv2.imread('/home/iw/Documents/Gk/MasterOpenCV/Master OpenCV/images/input.jpg')
+image = cv2.imread('./images/input.jpg')
 
 cv2.waitKey()
 
